@@ -1,0 +1,2 @@
+# ProyectoS5_TelecomunicacionesStats
+Análisis estadístico de las telecomunicaciones Megaline
